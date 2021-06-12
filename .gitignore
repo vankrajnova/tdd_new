@@ -11,3 +11,4 @@ superlists/superlists/__pycache__/wsgi.cpython-39.pyc
 .idea/modules.xml
 .idea/misc.xml
 .idea/inspectionProfiles/profiles_settings.xml
+superlists/geckodriver.log
