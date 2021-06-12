@@ -1,0 +1,13 @@
+
+superlists/db.sqlite3
+superlists/superlists/__pycache__/__init__.cpython-39.pyc
+superlists/superlists/__pycache__/settings.cpython-39.pyc
+superlists/superlists/__pycache__/urls.cpython-39.pyc
+superlists/superlists/__pycache__/wsgi.cpython-39.pyc
+"__pychache__"
+"*.рус"
+.idea/vcs.xml
+.idea/tdd_new.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
